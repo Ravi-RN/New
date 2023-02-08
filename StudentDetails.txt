@@ -1,0 +1,13 @@
+public class Students{
+
+	public static void main(String() arng){
+
+	int a = 20;
+	int b = 5;
+	system.out.println(a+b);
+	system.out.println(a-b);
+	system.out.println(a*b);
+	system.out.println(a/b);
+}
+
+} 
