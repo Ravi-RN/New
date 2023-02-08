@@ -7,7 +7,7 @@ public class Students{
 	system.out.println(a+b);
 	system.out.println(a-b);
 	system.out.println(a*b);
-	system.out.println(a/b);
+	system.out.println(a**b);
 }
 
 } 
